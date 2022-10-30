@@ -1,5 +1,5 @@
 ﻿using System;
-using NetTools;
+using MiniSkirt.IPAddressRange;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 [TestClass]

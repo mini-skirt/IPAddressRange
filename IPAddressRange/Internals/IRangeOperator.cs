@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Net;
 
-namespace NetTools.Internals
+namespace MiniSkirt.IPAddressRange.Internals
 {
     internal interface IRangeOperator : ICollection<IPAddress>
     {

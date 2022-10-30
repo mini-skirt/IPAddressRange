@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Net.Sockets;
 
-namespace NetTools.Internals
+namespace MiniSkirt.IPAddressRange.Internals
 {
     internal static class RangeOperatorFactory
     {

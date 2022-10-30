@@ -3,7 +3,7 @@ using System.IO;
 using System.Runtime.Serialization.Json;
 using System.Text;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NetTools;
+using MiniSkirt.IPAddressRange;
 
 [TestClass]
 public class IPAddressRangeDataContractSerializerTest

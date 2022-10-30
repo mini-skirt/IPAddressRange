@@ -5,13 +5,13 @@ using System.Collections.Generic;
 using System.Net;
 using System.Text.RegularExpressions;
 using System.ComponentModel;
-using NetTools.Internals;
+using MiniSkirt.IPAddressRange.Internals;
 
 #if NET45
 using System.Runtime.Serialization;
 #endif
 
-namespace NetTools
+namespace MiniSkirt.IPAddressRange
 {
     // NOTE: Why implement IReadOnlyDictionary<TKey,TVal> interface? 
     // =============================================================

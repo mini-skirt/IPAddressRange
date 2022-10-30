@@ -1,6 +1,6 @@
 ﻿using System;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NetTools;
+using MiniSkirt.IPAddressRange;
 
 namespace IPRange.Test
 {

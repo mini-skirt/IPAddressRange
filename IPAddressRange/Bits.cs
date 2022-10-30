@@ -2,7 +2,7 @@
 using System.ComponentModel;
 using System.Linq;
 
-namespace NetTools
+namespace MiniSkirt.IPAddressRange
 {
     public static class Bits
     {

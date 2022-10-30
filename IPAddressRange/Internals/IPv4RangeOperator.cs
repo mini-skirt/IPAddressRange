@@ -3,7 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Net;
 
-namespace NetTools.Internals
+namespace MiniSkirt.IPAddressRange.Internals
 {
     internal class IPv4RangeOperator : IRangeOperator
     {

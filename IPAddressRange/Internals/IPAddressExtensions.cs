@@ -2,7 +2,7 @@
 using System.Net;
 using System.Numerics;
 
-namespace NetTools.Internals
+namespace MiniSkirt.IPAddressRange.Internals
 {
     internal static class IPAddressExtensions
     {

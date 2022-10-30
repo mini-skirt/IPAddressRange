@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Net;
 using System.Numerics;
 
-namespace NetTools.Internals
+namespace MiniSkirt.IPAddressRange.Internals
 {
     internal class IPv6RangeOperator : IRangeOperator
     {

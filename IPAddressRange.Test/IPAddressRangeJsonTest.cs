@@ -2,7 +2,7 @@
 using System.Net;
 using System.Net.Sockets;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
-using NetTools;
+using MiniSkirt.IPAddressRange;
 using Newtonsoft.Json;
 
 namespace IPRange.Test
